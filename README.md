@@ -11,7 +11,7 @@ MusicGenerator is a project designed to generate music using LSTM (Long Short-Te
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IncriwerBoy/MusicGenerator.git
+   git clone https://github.com/Anshita231/Music_Generator
 
 2. Install the required dependencies:
    ```bash
